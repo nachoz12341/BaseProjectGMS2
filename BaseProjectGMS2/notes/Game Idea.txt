@@ -1,0 +1,23 @@
+Game idea:
+collectathon
+not quite a twin stick shooter as it uses a harpoon
+limited shots
+harpoon shot collects items/ same with grapling hook
+can expire/ need to collect more shots
+small focused levels
+need to not 100% to progress (oof)
+
+
+fish themed?
+two legged fish
+collect shells to pay for upgrades?
+something like this I guess
+
+
+special unlock ideas:
+grapling hook upgrade - brings enemies to you, brings you to terrain(only certain types of terrain)?
+headbutt - what you follow up with after grapling enemy
+more harpoons - increased shots
+explosive harpoons - explodes after contact
+
+
